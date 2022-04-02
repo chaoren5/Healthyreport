@@ -1,0 +1,4 @@
+INFO:root:LIST: [('25356c5b-e120-4b1f-89be-73e1dc180d2d', '杨硕')]
+INFO:root:2020-12-08 10:04:56 :'25356c5b-e120-4b1f-89be-73e1dc180d2d'报送失败, 返回信息为{'status': False, 'code': 50000, 'message': '今日已填报', 'data': None, 'otherData': {}}
+INFO:root:2021-11-29 15:30:12: '14ac58ff-8508-4601-a16a-123ad0bb59bd'报送失败, 返回信息为{'status': False, 'code': 50000, 'message': '今日已填报', 'data': None, 'otherData': {}}
+INFO:root:2021-12-01 11:57:04: '14ac58ff-8508-4601-a16a-123ad0bb59bd'报送失败, 返回信息为{'status': False, 'code': 50000, 'message': '获取用户失败！', 'data': None, 'otherData': {}}
